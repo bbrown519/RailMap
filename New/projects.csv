@@ -1,0 +1,236 @@
+NAME,Entity,Railroad,Year,JobCreation,JobRetention,Grant,TotalAmount,latitude,longitude,geometry
+Novotec,Novotec Recycling,Norfolk Southern,2017,N/A,N/A,N/A,N/A,39.930958,-82.974274,Point
+Cessna Transport Transload,Cessna Transport,CSX Transportation,2017,N/A,N/A,N/A,N/A,40.731784,-83.643403,Point
+CSX DERG 2009,CSX Transportation,CSX Transportation,2010,N/A,N/A,N/A,N/A,39.127649,-84.541985,Point
+Mondelez DERG - 2012,Mondelez,Norfolk Southern,2012,N/A,N/A,N/A,N/A,41.66516,-83.5009667,Point
+ORIGO New Production Facility,Origo,Ashland Railway,2018,12,N/A,N/A,315000,40.88569,-82.3351487,Point
+Winchester Ag Y,Winchester Ag Services,Cincinnati East Terminal Railway,2017,N/A,N/A,N/A,N/A,38.943176,-83.656498,Point
+Keller Logistics 2016,Keller Logistics Group,Napoleon Defiance Western Railway,2017,N/A,N/A,N/A,N/A,41.274558,-84.396236,Point
+Cadiz CIC Acquisition,"Village of Cadiz, CIC",Columbus & Ohio River Railroad,2017,N/A,N/A,N/A,N/A,40.24387,-80.981161,Point
+W&LE Mainline Twin Tunnel Portal Repair,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2017,N/A,N/A,N/A,900000,40.319903,-80.668972,Point
+"Austin Master Services Spur, Martins Ferry, W&LE",Austin Master Services,Wheeling & Lake Erie Railway,2017,N/A,N/A,N/A,300000,40.101344,-80.71257,Point
+Cincy Crane Loading,Cincinnati Crane and Hoist,Indiana Eastern Railroad,2018,N/A,N/A,N/A,N/A,39.28213,-84.691457,Point
+Navistar - WESTCO components,Navistar,Indiana & Ohio Railway,2017,N/A,N/A,N/A,N/A,40.008474,-83.802972,Point
+"Project ABC Spur, Akron",Akron Barberton Cluster Railway,Akron Barberton Cluster Railway,2018,N/A,N/A,N/A,150000,41.028568,-81.477762,Point
+ACJ Unloading Track,Ashtabula Carson & Jefferson Railroad,Ashtabula Carson & Jefferson Railroad,2018,N/A,N/A,N/A,N/A,41.733041,-80.754637,Point
+AK Steel DERG - 2016,AK Steel,No Railroad Involvement,2016,N/A,N/A,N/A,N/A,39.4971674,-84.3904388,Point
+Mondelez DERG - 2016,Mondelez,Norfolk Southern,2016,N/A,N/A,N/A,N/A,41.66516,-83.5009667,Point
+IERR State Line to End of Line Rehab,Indiana Eastern Railroad,Indiana Eastern Railroad,2017,N/A,N/A,N/A,N/A,39.296842,-84.702039,Point
+Ann Arbor Yard Expansion,Ann Arbor Railroad,Ann Arbor Railroad,2017,N/A,N/A,N/A,5400000,41.69061,-83.509395,Point
+RailServe DERG - 2016,RailServe,No Railroad Involvement,2016,N/A,N/A,N/A,982405,39.824618,-84.1736997,Point
+Auto Park It Spur,Auto Park It,Warren & Trumbull Railroad,2017,N/A,N/A,N/A,N/A,41.269496,-80.793455,Point
+W&LE Asylum Lead Culvert Repair,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2017,N/A,N/A,N/A,80000,40.739497,-81.505236,Point
+"Dinesol Spur Expansion, Niles, NS",Dinesol,Youngstown & Austintown Railroad,2017,N/A,N/A,N/A,100000,41.10779,-80.713675,Point
+ZEEP / Midwest Methanol,ZEEP / Midwest Methanol 2016,Norfolk Southern,2017,N/A,N/A,N/A,N/A,41.567321,-84.073991,Point
+NDW 2016 Transload,Napoleon Defiance Western Railway,Napoleon Defiance Western Railway,2016,0,0,N/A,N/A,41.402919,-84.111787,Point
+Van Wert Terminal Expansion,Van Wert Terminal LLC,Chicago Fort Wayne & Eastern Railroad,2017,N/A,8,N/A,500000,40.864477,-84.517495,Point
+CCET Emergency Repairs,Cincinnati East Terminal Railway,Cincinnati East Terminal Railway,2015,N/A,N/A,N/A,N/A,39.067821,-84.118447,Point
+"OSRC Xing Surfaces, Hamden to Jackson",Ohio South Central Railroad,Ohio South Central Railroad,2018,N/A,N/A,N/A,51050,39.032711,-82.618914,Point
+2018 IERR State Line to End of Line Rehab,Indiana Eastern Railroad,Indiana Eastern Railroad,2018,N/A,N/A,N/A,N/A,39.296842,-84.702039,Point
+American Recycling 2016,American Recycling,Norfolk Southern,2017,N/A,N/A,N/A,N/A,40.913658,-81.086701,Point
+Jefferson Depot Driveway,Jefferson Depot,Ashtabula Carson & Jefferson Railroad,2017,N/A,N/A,N/A,N/A,41.739208,-80.761754,Point
+CUOH Mt. Vernon Bridge Phase II,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2016,N/A,N/A,N/A,N/A,40.19575,-82.421562,Point
+RJ Corman Cleveland and Western Lines Rehab,RJ Corman Railroad Group,RJ Corman Railroad Company (Cleveland Lines),2016,N/A,N/A,N/A,N/A,40.624003,-81.542119,Point
+CFER Sugar Street Connection,Chicago Fort Wayne & Eastern Railroad,Chicago Fort Wayne & Eastern Railroad,2017,N/A,N/A,N/A,N/A,40.747662,-84.088758,Point
+OSCR Hamden to Jackson Rehab,Ohio South Central Railroad,Ohio South Central Railroad,2016,N/A,N/A,N/A,N/A,39.159668,-82.52391,Point
+DiPerna & Company PSC FY 2017,DiPerna & Company,No Railroad Involvement,2017,N/A,N/A,N/A,N/A,39.96436,-82.996344,Point
+Ohi-Rail Apex Line Culvert & Repairs,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2017,N/A,N/A,N/A,600000,40.370251,-80.877923,Point
+CCET 33.59 Bridge,Cincinnati East Terminal Railway,Cincinnati East Terminal Railway,2018,N/A,N/A,N/A,1000000,39.054587,-84.048157,Point
+Skye Metal SR 339 Crossing,Skye Metal Recovery,CSX Transportation,2017,N/A,N/A,N/A,N/A,39.282619,-81.657247,Point
+NDW Phase III,Napoleon Defiance Western Railway,Napoleon Defiance Western Railway,2015,N/A,N/A,N/A,N/A,41.243723,-84.503341,Point
+Project Brody,Church & Dwight Co.,Norfolk Southern,2018,N/A,N/A,N/A,3800000,41.241707,-83.114032,Point
+Norfolk Southern DERG,Norfolk Southern,Norfolk Southern,2017,N/A,N/A,N/A,N/A,39.912725,-82.947799,Point
+Project Alpla (Lima),Alpla,CSX Transportation,2018,N/A,N/A,N/A,N/A,40.696419,-84.120355,Point
+ORP Sand Transload Loop Track,Ohio River Partners,Central Maine and Quebec Railway,2018,N/A,N/A,N/A,1599338,39.703892,-80.842713,Point
+Roundhouse Lumber Spur,Northern Ohio Lumber and Timber,Midwest Rail Preservation Society,2018,N/A,N/A,N/A,60000,41.474804,-81.674852,Point
+NSR D Yard West Lead Rehab,Newburgh & South Shore Railway,Newburgh & South Shore Railway,2018,N/A,N/A,N/A,400000,41.443012,-81.649406,Point
+Jackson Line Additional Environmental Assessment Work,City of Jackson,Ohio South Central Railroad,2016,N/A,N/A,N/A,N/A,39.054162,-82.663162,Point
+Owens Brockway Spur,Owens-Brockway,Ohio Southern Railroad,2018,N/A,363,N/A,200000,39.921386,-82.026346,Point
+Auto Park It Engineering,Mahoning Valley Economic Development Corporation,Warren & Trumbull Railroad,2017,N/A,N/A,N/A,N/A,41.269496,-80.793455,Point
+Dr MLK Jr Plaza Renovations,Toledo-Lucas County Port Authority,Norfolk Southern,2017,N/A,N/A,N/A,N/A,41.638222,-83.54166,Point
+Youngstown & Southeastern Rehab,Youngstown & Southeastern Railroad,Youngstown & Southeastern Railroad,2018,N/A,N/A,N/A,430000,40.83023,-80.670547,Point
+"Gerald Grain, New Elevator, Delta",Gerald Grain,Norfolk Southern,2017,N/A,N/A,N/A,1700000,41.56241,-84.071944,Point
+Topre Grade Crossings,Topre,Indiana & Ohio Railway,2018,85,N/A,N/A,350000,39.9365428,-83.772994,Point
+Pilkington SR 65 Crossing & Rail Repairs,Wood County Port Authority,CSX Transportation,2017,N/A,94,N/A,806000,41.614654,-83.552673,Point
+Navistar - G&W Components,Navistar,Indiana & Ohio Railway,2017,N/A,N/A,N/A,2000000,40.011086,-83.802425,Point
+Project Cardboard (Breakout) 2016,Atlantic Packaging Products,Akron Barberton Cluster Railway,2017,N/A,N/A,N/A,325000000,40.97117,-81.773324,Point
+Presrite Property Swap,Presrite,Ashtabula Carson & Jefferson Railroad,2015,N/A,N/A,N/A,N/A,41.733985,-80.756201,Point
+W&LE Solon Branch Rehab,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2015,N/A,N/A,N/A,N/A,41.381673,-81.452624,Point
+W&LE Mingo Yard Expansion,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2014,N/A,N/A,N/A,N/A,40.308808,-80.611149,Point
+DiPerna & Company PSC FY 2016,DiPerna & Company,No Railroad Involvement,2016,N/A,N/A,N/A,N/A,39.96436,-82.996344,Point
+W&LE Solon Branch Rehab Additional Work,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2016,N/A,N/A,N/A,N/A,41.362031,-81.467213,Point
+Malt Products,Malt Products,CSX Transportation,2013,30,32,N/A,N/A,39.780015,-84.270138,Point
+Operation Lifesaver 2015 Fair,Ohio Operation Lifesaver,No Railroad Involvement,2016,N/A,N/A,N/A,N/A,40.002421,-82.990934,Point
+C&OR Heath-Hebron,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2013,N/A,N/A,N/A,N/A,39.985468,-82.486245,Point
+OSCR Hamden-Red Diamond,Indiana Eastern Railroad,Ohio South Central Railroad,2015,N/A,N/A,N/A,N/A,39.112025,-82.585079,Point
+I&O Logan Line III,Indiana & Ohio Railway,Indiana & Ohio Railway,2013,N/A,N/A,N/A,N/A,39.749145,-82.66411,Point
+Lake Terminal Railroad Rehab,Lake Terminal Railroad,Lake Terminal Railroad,2013,N/A,N/A,N/A,N/A,41.446371,-82.139676,Point
+NOW Crossing Surface Reconstruction,Northern Ohio & Western Railway,Northern Ohio & Western Railway,2015,N/A,N/A,N/A,N/A,41.13837,-83.194662,Point
+Newburgh & South Shore,Newburgh & South Shore Railway,Newburgh & South Shore Railway,2014,N/A,N/A,N/A,N/A,41.44374,-81.643689,Point
+Ohio Terminal Railway,Ohio Terminal Railway,Ohio Terminal Railway,2015,N/A,N/A,N/A,N/A,39.709165,-80.84088,Point
+Hannibal Track 8,Hannibal Real Estate,Ohio Terminal Railway,2014,50,72,N/A,N/A,39.728957,-80.843003,Point
+Jamen Corporation,Jamen Holding Company,Norfolk Southern,2011,N/A,N/A,N/A,N/A,41.294633,-81.494684,Point
+City of Dayton NW Industrial,City of Dayton,CSX Transportation,2013,N/A,N/A,N/A,N/A,39.77127,-84.246947,Point
+C&OR Mt. Vernon Rehab,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2013,N/A,N/A,N/A,N/A,40.363015,-82.488156,Point
+W&LE Minerva Branch,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2013,N/A,N/A,N/A,N/A,40.715853,-81.12802,Point
+Cadiz Property Swap,MarkWest Energy Partners,Columbus & Ohio River Railroad,2015,N/A,N/A,N/A,N/A,40.292223,-80.993579,Point
+W&TRR Re-Opening,Warren & Trumbull Railroad,Warren & Trumbull Railroad,2013,N/A,N/A,N/A,N/A,41.266376,-80.837745,Point
+Jackson Line Acquisition,City of Jackson,Ohio South Central Railroad,2014,N/A,N/A,N/A,N/A,39.055436,-82.63537,Point
+CGB Enterprises,CGB Enterprises,CSX Transportation,2013,10,N/A,N/A,N/A,39.083756,-84.638912,Point
+Coshocton Property Swap,Thomas Ungurean,Columbus & Ohio River Railroad,2014,N/A,N/A,N/A,N/A,40.270035,-81.852101,Point
+Fulton County Processing Track Relocation,Fulton County Processing,Indiana & Ohio Railway,2014,14,72,N/A,N/A,41.580813,-84.034904,Point
+AMRTA,Metro Regional Transit Authority,Akron Barberton Cluster Railway,2013,N/A,N/A,N/A,N/A,41.077128,-81.484794,Point
+xMelvin Stone Spur,Melvin Stone,Indiana & Ohio Railway,2016,N/A,N/A,N/A,N/A,39.472195,-83.722671,Point
+RJ Corman Wooster Rehab,RJ Corman Railroad Company (Cleveland Lines),RJ Corman Railroad Company (Cleveland Lines),2012,N/A,N/A,N/A,N/A,40.794092,-81.944691,Point
+W&LE Maumee River Swing Bridge,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2016,N/A,N/A,N/A,N/A,41.674786,-83.489847,Point
+CIND/CBT Passing Track CMAQ/OKI,Central Railroad of Indiana,Central Railroad of Indiana,2017,N/A,N/A,N/A,1155941,39.098799,-84.53153,Point
+Cincinnati Barge & Rail Terminal CMAQ/OKI,Cincinnati Barge & Rail Terminal,Indiana & Ohio Railway,2017,N/A,N/A,N/A,N/A,39.115701,-84.484752,Point
+City of Lebanon LM&M,City of Lebanon,Lebanon Mason & Monroe Railroad,2013,N/A,N/A,N/A,N/A,39.429379,-84.224822,Point
+Novotec Recycling Inc.,Novotec Recycling,Norfolk Southern,2011,50,N/A,N/A,N/A,39.93367,-82.894372,Point
+OSCR/Indiana Eastern Meridian Transload,Indiana Eastern Railroad,Ohio South Central Railroad,2015,N/A,N/A,N/A,N/A,39.035262,-82.62077,Point
+ABC Kent to Ravenna,Akron Barberton Cluster Railway,Akron Barberton Cluster Railway,2012,N/A,N/A,N/A,N/A,41.168508,-81.278754,Point
+MIC Loop Track,Marion Industrial Center,CSX Transportation,2013,N/A,N/A,N/A,N/A,40.609301,-83.037771,Point
+CSX National Gateway (EFL admin),CSX Transportation,CSX Transportation,2011,N/A,N/A,N/A,N/A,41.032744,-82.293875,Point
+ASRY 629 Crossings,Ashland Railway,Ashland Railway,2012,N/A,N/A,N/A,N/A,40.966844,-82.116536,Point
+NS DERG - 2013,Norfolk Southern,Norfolk Southern,2013,N/A,N/A,N/A,N/A,41.892374,-80.796573,Point
+ASRY Bowman Yard,Ashland Railway,Ashland Railway,2015,N/A,N/A,N/A,N/A,40.795083,-82.533217,Point
+Harrison Ethanol,Harrison Ethanol,Columbus & Ohio River Railroad,2007,107,N/A,N/A,N/A,40.223906,-80.999007,Point
+Ashland Railway Rehab FY12/13,Ashland Railway,Ashland Railway,2012,N/A,N/A,N/A,N/A,40.850639,-82.370778,Point
+NEWGreen Spur Project,New Green Legacy Services,Norfolk Southern,2012,40,20,N/A,N/A,41.794057,-81.144267,Point
+International Technical Coatings,International Technical Coatings,Norfolk Southern,2011,120,N/A,N/A,N/A,39.928519,-82.974559,Point
+Melvin Stone Spur,Melvin Stone,Indiana & Ohio Railway,2016,N/A,N/A,N/A,1200000,39.472195,-83.722671,Point
+RJ Corman Minster Line Bridges,RJ Corman Railroad Co (Western Lines),RJ Corman Railroad Co (Western Lines),2015,N/A,N/A,N/A,N/A,40.626449,-84.256997,Point
+RJ Corman Cleveland Line - Phase IV,RJ Corman Railroad Company (Cleveland Lines),RJ Corman Railroad Company (Cleveland Lines),2014,N/A,N/A,N/A,N/A,40.570623,-81.506216,Point
+Seven Hills Bridge,Licking County Commissioners,Columbus & Ohio River Railroad,2014,N/A,N/A,N/A,N/A,40.076547,-82.24922,Point
+Whitehall/Hamilton Road Bridge,City of Whitehall,Columbus & Ohio River Railroad,2016,N/A,N/A,N/A,N/A,39.98626,-82.869346,Point
+C&OR Emergency Bridge-Mt Vernon,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2015,N/A,N/A,N/A,N/A,40.195772,-82.421625,Point
+NDW Sidings,Napoleon Defiance Western Railway,Napoleon Defiance Western Railway,2013,N/A,N/A,N/A,N/A,41.414591,-84.090614,Point
+WESTCO Urbana Line CMAQ,West Central Ohio Port Authority (WESTCO),Indiana & Ohio Railway,2016,N/A,N/A,N/A,N/A,40.038687,-83.795052,Point
+CFER Delphos Terminal RR,Chicago Fort Wayne & Eastern Railroad,Chicago Fort Wayne & Eastern Railroad,2013,N/A,N/A,N/A,N/A,40.832823,-84.360167,Point
+I&O Mason to Monroe Line,Indiana & Ohio Railway,Indiana & Ohio Railway,2013,N/A,N/A,N/A,N/A,39.404863,-84.283012,Point
+Greenfield Emergency Bridge Rpr,City of Greenfield,Indiana & Ohio Railway,2015,N/A,N/A,N/A,N/A,39.346938,-83.375988,Point
+City of Medina Rehab,City of Medina,Wheeling & Lake Erie Railway,2005,N/A,N/A,N/A,N/A,41.138897,-81.887507,Point
+I&O Lancaster Industrial,Indiana & Ohio Railway,Indiana & Ohio Railway,2010,N/A,N/A,N/A,N/A,39.712148,-82.563915,Point
+Ohio Central Swing Bridge,Ohio Central Railroad,Ohio Central Railroad,2010,N/A,N/A,N/A,N/A,39.938951,-82.010387,Point
+WESTCO Sugar Creek Bridge Replacement,West Central Ohio Port Authority (WESTCO),Indiana & Ohio Railway,2007,N/A,N/A,N/A,N/A,39.657519,-83.563213,Point
+W&LE Benwood Bridge,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2006,N/A,N/A,N/A,N/A,40.012424,-80.74147,Point
+OC/Mt. Vernon Line,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2007,N/A,N/A,N/A,N/A,40.29995,-82.45541,Point
+Marion Industrial Center,Marion Industrial Center,CSX Transportation,2007,N/A,N/A,N/A,N/A,40.603772,-83.052431,Point
+Ohio Southern McCluney Bridge,Ohio Southern Railroad,Ohio Southern Railroad,2003,N/A,N/A,N/A,N/A,39.937917,-82.010537,Point
+Southgate Company/Samuel Manu-tech,Southgate Company Limited Partnership,Columbus & Ohio River Railroad,2007,N/A,N/A,N/A,N/A,40.013979,-82.475907,Point
+WESTCO - Stoney Run Culvert,West Central Ohio Port Authority (WESTCO),Indiana & Ohio Railway,2005,N/A,N/A,N/A,N/A,39.924361,-83.869052,Point
+Y&A - Youngstown Steel Door (YSD),Youngstown & Austintown Railroad,Youngstown & Austintown Railroad,2005,N/A,N/A,N/A,N/A,41.107666,-80.717283,Point
+Buckingham Coal,Buckingham Coal,Norfolk Southern,2006,200,90,N/A,N/A,39.573236,-82.06099,Point
+Republic N&T,Republic N & T Railroad,Republic N & T Railroad,2005,N/A,N/A,N/A,N/A,40.802342,-81.326394,Point
+Aurora Plastics,Aurora Plastics,Wheeling & Lake Erie Railway,2006,22,20,N/A,N/A,41.245246,-81.373625,Point
+Smurfit Stone,Smurfit-Stone Container Enterprises,Akron Barberton Cluster Railway,2005,N/A,N/A,N/A,N/A,41.172424,-81.23559,Point
+W&LE Robertsville Tunnel Repairs,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2008,N/A,N/A,N/A,N/A,40.761881,-81.174891,Point
+Hardin Rail Logistics,American Rail Center,CSX Transportation,2011,N/A,N/A,N/A,N/A,41.568618,-83.520004,Point
+Cleveland Commercial Randall Secondary,Cleveland Commercial Railway,Cleveland Commercial Railway,2010,N/A,N/A,N/A,N/A,41.383404,-81.430979,Point
+W&LE Carrollton Branch Rehab,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2008,N/A,N/A,N/A,N/A,40.582044,-81.085529,Point
+ASRY Mansfield-Willard,Ashland Railway,Ashland Railway,2010,N/A,N/A,N/A,N/A,41.015808,-82.680068,Point
+W&LE Akron Sub Safety Upgrades,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2009,N/A,N/A,N/A,N/A,41.088905,-81.687463,Point
+Buckeye Transfer Realty,Buckeye Transfer Realty,Norfolk Southern,2015,N/A,N/A,N/A,N/A,39.968722,-83.132725,Point
+Indiana Eastern Bridge Repairs,Indiana Eastern Railroad,Indiana Eastern Railroad,2010,N/A,N/A,N/A,N/A,39.285927,-84.694223,Point
+W&LE Sandy Line Tie,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2012,N/A,N/A,N/A,N/A,40.774195,-81.377531,Point
+CCRR Bridge Repair & Chapel Steel,Cleveland Commercial Railway,Cleveland Commercial Railway,2014,N/A,N/A,N/A,N/A,41.427033,-81.589948,Point
+Deltech Polymers,Deltech Polymers Corp,CSX Transportation,2010,12,N/A,N/A,N/A,40.025024,-84.20013,Point
+W&LE Brewster Yard Expansion,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2015,N/A,N/A,N/A,N/A,40.714824,-81.623435,Point
+City of Lebanon,City of Lebanon,Lebanon Mason & Monroe Railroad,2010,N/A,N/A,N/A,N/A,39.429379,-84.224822,Point
+NDW Phase II,Napoleon Defiance Western Railway,Napoleon Defiance Western Railway,2014,N/A,N/A,N/A,N/A,41.283899,-84.368834,Point
+Warrenton River Terminal,Warrenton River Terminal,Wheeling & Lake Erie Railway,2007,N/A,N/A,N/A,N/A,40.1928,-80.679234,Point
+Marne Culvert,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2012,N/A,N/A,N/A,N/A,40.069145,-82.315522,Point
+CUOH Neilston,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2012,N/A,N/A,N/A,N/A,39.980153,-82.968488,Point
+Hydrodec Trackmobile,Hydrodec North America,Wheeling & Lake Erie Railway,2008,65,N/A,N/A,N/A,40.784407,-81.350724,Point
+I&O Blue Ash,Indiana & Ohio Railway,Indiana & Ohio Railway,2009,N/A,N/A,N/A,N/A,39.230481,-84.379411,Point
+"Ohio Basic Minerals, LLC",Ohio Basic Minerals,Ohio South Central Railroad,2010,30,8,N/A,N/A,39.061326,-82.672925,Point
+C&OR Newark Yard,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2011,2,N/A,N/A,N/A,40.054968,-82.382321,Point
+"Fulton Railroad Company, LTD",Fulton Railroad,Indiana & Ohio Railway,2007,8,N/A,N/A,N/A,39.08358,-84.573162,Point
+Lancaster Transload,Lancaster Port Authority,Indiana & Ohio Railway,2011,80,150,N/A,N/A,39.7102,-82.580108,Point
+Case Farms,Case Farms,Wheeling & Lake Erie Railway,2008,N/A,N/A,N/A,N/A,40.753741,-81.506058,Point
+Bellaire Harbor Services,Bellaire Harbor Service,Wheeling & Lake Erie Railway,2010,5,38,N/A,N/A,40.046395,-80.732753,Point
+ACJRR Bridge Repair,Ashtabula Carson & Jefferson Railroad,Ashtabula Carson & Jefferson Railroad,2011,N/A,N/A,N/A,N/A,41.769149,-80.751397,Point
+Lawrence County Port Authority,Lawrence County Port Authority,Norfolk Southern,2009,50,N/A,N/A,N/A,38.431441,-82.591728,Point
+Y&S Rebuilding 4 Crossings,Youngstown & Southeastern Railroad,Youngstown & Southeastern Railroad,2008,N/A,N/A,N/A,N/A,41.024339,-80.654985,Point
+City of Trotwood Relocation and Rehab,City of Trotwood,CSX Transportation,2008,200,N/A,N/A,N/A,39.786228,-84.284815,Point
+Lancaster Port Authority/US Corrugated,Lancaster Port Authority,Indiana & Ohio Railway,2008,N/A,N/A,N/A,N/A,39.736711,-82.662646,Point
+NS Heartland Corridor,Norfolk Southern,Norfolk Southern,2006,N/A,N/A,N/A,N/A,41.26784,-82.838614,Point
+ARRA TLCPA Cargo Facility R Loop,Toledo-Lucas County Port Authority,CSX Transportation,2010,N/A,N/A,N/A,N/A,41.696411,-83.454199,Point
+WESTCO Sugar Creek Bridge #2,West Central Ohio Port Authority (WESTCO),Indiana & Ohio Railway,2008,N/A,N/A,N/A,N/A,39.629016,-83.535584,Point
+W&LE Swing Bridge,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2010,N/A,N/A,N/A,N/A,41.674786,-83.489847,Point
+Cleveland Commercial Railroad,Cleveland Commercial Railway,Cleveland Commercial Railway,2005,N/A,N/A,N/A,N/A,41.450748,-81.620161,Point
+CUOH Jewett Bridge,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2003,N/A,N/A,N/A,N/A,40.361497,-80.981718,Point
+Haverhill Coke,Haverhill North Coke,Norfolk Southern,2004,64,N/A,N/A,N/A,38.601793,-82.828336,Point
+COIP - Potential Transload Project 2016,Central Ohio Industrial Park,Norfolk Southern,2017,N/A,N/A,N/A,N/A,41.37159,-82.133841,Point
+Bedford Wire Spur,ITW Bedford Wire,Cleveland Commercial Railway,2017,N/A,N/A,N/A,125000,41.420366,-81.494028,Point
+CCRR Industrial Park Rehab,Cleveland Commercial Railway,Cleveland Commercial Railway,2017,N/A,N/A,N/A,225000,41.411348,-81.488934,Point
+Harrison CR 51 Bridge Replacement,Harrison County Engineer's Office,Columbus & Ohio River Railroad,2017,N/A,N/A,N/A,N/A,40.364305,-80.949166,Point
+Greenfield Rehab (match to EDA),City of Greenfield,Indiana & Ohio Railway,2013,N/A,N/A,N/A,N/A,39.329789,-83.617131,Point
+City of Jackson/OSCR TE,City of Jackson,Ohio South Central Railroad,2014,N/A,N/A,N/A,N/A,39.153912,-82.544152,Point
+Project Hermitage-Interstate Chemical,"Interstate Chemical Company, Inc.",CSX Transportation,2017,N/A,N/A,0,N/A,41.704135,-83.533936,Point
+Engineered Wire Products 2016,Engineered Wire Products,CSX Transportation,2017,0,N/A,0,N/A,40.851665,-83.298998,Point
+Nitto Denko Avecia Inc. 2016,Nitto Denko Avecia Inc.,Indiana & Ohio Railway,2017,100,N/A,0,N/A,39.217757,-84.441475,Point
+Cleveland Commercial Von Willer Yard Rehab,Cleveland Commercial Railway,Cleveland Commercial Railway,2018,N/A,N/A,0,60000,41.474363,-81.653191,Point
+Operation Lifesaver 2016 Fair,Ohio Operation Lifesaver,No Railroad Involvement,2017,N/A,N/A,1290,1290,40.002421,-82.990934,Point
+Operation Lifesaver 2017 Fair,Ohio Operation Lifesaver,No Railroad Involvement,2018,N/A,N/A,1290,1290,40.002421,-82.990934,Point
+New Horizons Baking Company 2016,New Horizons Baking Company,Ann Arbor Railroad,2017,N/A,N/A,23000,23000,41.68378,-83.503973,Point
+City of Rittman Bridge Rehabilitation,City of Rittman,Akron Barberton Cluster Railway,2016,N/A,N/A,25000,N/A,40.974792,-81.772197,Point
+CCET Sardinia Crossing,Cincinnati East Terminal Railway,Cincinnati East Terminal Railway,2018,N/A,N/A,25080,50160,39.005241,-83.802129,Point
+Werner G. Smith Co. Spur Rehab,Werner G. Smith,Flats Industrial Railroad,2017,5,13,30000,110000,41.482339,-81.695831,Point
+YSRR Pump System & Surface Rehab,Youngstown & Southeastern Railroad,Youngstown & Southeastern Railroad,2018,N/A,N/A,39000,78000,40.8832296,-80.6911288,Point
+Portage County Track Rehab (failed culvert),Portage County,Akron Barberton Cluster Railway,2017,N/A,N/A,50000,N/A,41.167576,-81.26374,Point
+Project Brewer,CT Packaging LLC,Columbus & Ohio River Railroad,2017,N/A,N/A,50000,N/A,40.00912,-82.475683,Point
+Tymex Plastics 2016,Tymex Plastics,Newburgh & South Shore Railway,2017,0,47,50000,N/A,41.446395,-81.653613,Point
+ReConserve of Ohio Spur,ReConserve of Ohio,CSX Transportation,2015,16,21,50000,N/A,40.609941,-83.059022,Point
+20/20 Custom Molded Plastics,20/20 Custom Molded Plastics,Norfolk Southern,2016,53,143,50000,250000,41.610716,-84.542891,Point
+AJM Packaging - Bellevue,AJM Packaging,Norfolk Southern,2017,150,N/A,51000,51000,41.280696,-82.877254,Point
+Spray Products - Project Plymouth,Spray Products,Wheeling & Lake Erie Railway,2018,N/A,N/A,52000,52000,41.115209,-81.892379,Point
+"Bellisio Spur, Jackson, OSCR",Ohio South Central Railroad,Ohio South Central Railroad,2018,N/A,N/A,53000,352000,39.052904,-82.633803,Point
+MSW Plastics USA - Project Cypress,"MSW Plastics USA, Inc.",CSX Transportation,2018,N/A,N/A,60000,60000,39.835506,-84.183037,Point
+CCET Bean Rd Culvert,Cincinnati East Terminal Railway,Cincinnati East Terminal Railway,2018,N/A,N/A,62500,125000,39.012741,-83.837946,Point
+CUOH Zanesville Yard Rehab,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2018,N/A,N/A,72000,180000,39.942344,-82.010043,Point
+Ohio Gratings,Ohio Gratings,Norfolk Southern,2017,N/A,321,75000,250000,40.7850088,-81.4548623,Point
+Ellwood Bridge Project,Ellwood Engineered Castings,Norfolk Southern,2018,N/A,N/A,75000,525000,41.171529,-80.560952,Point
+CSX Lordstown Yard Expansion,CSX Transportation,CSX Transportation,2017,9,57,75000,5000000,41.175429,-80.875533,Point
+Reagent Chemical,Reagent Chemical,Columbus & Ohio River Railroad,2018,N/A,N/A,75000,850000,40.276116,-81.57883,Point
+Union Tank Car Company,Union Tank Car,CSX Transportation,2016,200,117,75000,1500000,40.566476,-83.142614,Point
+Strauss Industries/River Rail,River Rail Development,Wheeling & Lake Erie Railway,2015,24,12,75000,578915,40.351466,-80.614964,Point
+Nelson Packaging,Nelson Packaging Company,Chicago Fort Wayne & Eastern Railroad,2015,140,211,75000,1432216,40.745357,-84.070651,Point
+Mitsubishi Phase II,City of Bellevue,Norfolk Southern,2017,12,113,87000,650000,41.279172,-82.83374,Point
+CCET Sardinia Tie Program,Cincinnati East Terminal Railway,Cincinnati East Terminal Railway,2018,N/A,N/A,95000,190000,39.02562,-83.900703,Point
+CertainTeed - Project Ruben,CertainTeed,Norfolk Southern,2018,10,196,100000,2200000,41.325906,-82.620115,Point
+CROW Bridge #1 Repairs,Cleveland Works Railroad,Cleveland Works Railroad,2017,N/A,N/A,100000,N/A,41.470706,-81.668908,Point
+Church & Dwight Co 2016,Church & Dwight Co.,Norfolk Southern,2016,20,216,100000,500000,41.2404624,-83.1181058,Point
+Liqui-Box 2016,Liqui-Box,Chicago Fort Wayne & Eastern Railroad,2017,16,75,100000,N/A,40.825433,-83.254713,Point
+"Corvac Composites, Greenfield Transload",City of Greenfield,Indiana & Ohio Railway,2017,175,N/A,100000,412000,39.362194,-83.382692,Point
+Bucyrus Railcar Repair Expansion,Bucyrus Railcar Repair,Norfolk Southern,2018,40,40,100000,450000,40.797793,-82.965861,Point
+CUOH Mt. Vernon Bridge Phase 2017,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2018,N/A,N/A,120000,300000,40.19575,-82.421562,Point
+MetalX Rail Spur,MetalX,Indiana & Ohio Railway,2018,N/A,N/A,125000,1704700,41.576613,-84.035554,Point
+OSCR/Relay Tie Purchase,Indiana Eastern Railroad,Ohio South Central Railroad,2015,N/A,N/A,126000,N/A,39.158621,-82.524719,Point
+Ohi-Rail Bayard Line Rail Replacement,Ohi-Rail,Ohi-Rail,2017,N/A,N/A,150000,564174,40.743509,-81.079182,Point
+Ohi-Rail Bridges 49.83 & 60.39,Ohi-Rail,Ohi-Rail,2017,N/A,N/A,150000,300000,40.524854,-80.884955,Point
+Project Capstone (Gateway Plastics) 2016,Gateway Plastics,CSX Transportation,2017,200,N/A,150000,3000000,39.973689,-84.172181,Point
+Step2 Company On-Site Rail Expansion-Project Playground,Step2,Norfolk Southern,2018,15,746,150000,460000,41.260074,-81.385573,Point
+WESTCO Mechanicsburg Bridges,West Central Ohio Port Authority (WESTCO),Indiana & Ohio Railway,2016,N/A,N/A,150000,N/A,40.006374,-83.689897,Point
+Mitsubishi Chemical Performance Polymers Expansion,Bellevue Development Corporation,Norfolk Southern,2015,25,88,155500,311000,41.278858,-82.833753,Point
+CUOH Turnouts Newark Coshocton,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2018,N/A,N/A,173280,433200,40.0556,-82.390232,Point
+Pratt Industries - Project Transfer,Pratt Paper,CSX Transportation,2018,N/A,N/A,200000,N/A,40.539235,-84.189009,Point
+Akron Metro Hudson Line Reactivation,Metro Regional Transit Authority,Norfolk Southern,2017,N/A,N/A,200000,1050000,41.206798,-81.466295,Point
+Camp Chase Railway Rehab,Camp Chase Railway,Camp Chase Railway,2018,N/A,N/A,207500,415000,39.944279,-83.108701,Point
+"RJ Corman Cleveland Line Rehab, FY  2018",RJ Corman Railroad Company (Cleveland Lines),RJ Corman Railroad Company (Cleveland Lines),2018,N/A,N/A,248850,715477,40.118183,-84.646701,Point
+"Commercial Metal Forming Spur, Youngstown, NS",Commercial Metal Forming,Norfolk Southern,2017,20,111,250000,950000,41.124798,-80.636008,Point
+Nucor Revitalization,Nucor Steel Marion Inc.,Norfolk Southern,2017,15,259,250000,1300000,40.571556,-83.138712,Point
+CCET Peavine Initial Rehab,Cincinnati East Terminal Railway,Cincinnati East Terminal Railway,2016,N/A,N/A,250000,500000,39.126696,-84.233222,Point
+GOJO Industries Inc.,GOJO Industries,Norfolk Southern,2016,244,N/A,250000,630000,40.809956,-81.909226,Point
+CSX Marion Power Switches,CSX Transportation,CSX Transportation,2016,N/A,N/A,250000,606848,40.604178,-83.074845,Point
+Sofidel 2016,Sofidel America,Norfolk Southern,2016,310,0,255000,1322500,39.55426,-82.95394,Point
+NS Lordstown Branch,Norfolk Southern,Norfolk Southern,2016,N/A,N/A,285500,N/A,41.09605,-80.873103,Point
+Kanawha River Railroad Bridge Repairs,Kanawha River Railroad,Kanawha River Railroad,2017,N/A,N/A,300000,3200000,39.121545,-82.229989,Point
+IORY Midland Sub Rehab,Indiana & Ohio Railway,Indiana & Ohio Railway,2017,N/A,N/A,300000,600000,39.4663944,-83.6785231,Point
+W&LE Sandyville Line Phase II Rehab,Wheeling & Lake Erie Railway,Wheeling & Lake Erie Railway,2017,N/A,N/A,300000,657600,40.774195,-81.377531,Point
+ABC Bridge #5,Akron Barberton Cluster Railway,Akron Barberton Cluster Railway,2016,N/A,N/A,350000,N/A,40.994534,-81.608012,Point
+Cliffs Ironunits Hot Briquetted Iron Plant,"Iron Units, LLC",Norfolk Southern,2018,130,N/A,400000,N/A,41.672464,-83.478239,Point
+Jackson FRA Safety Grant,Ohio South Central Railroad,Ohio South Central Railroad,2017,N/A,N/A,450000,1200000,39.255885,-82.419866,Point
+ASRY Mansfield Yard,Ashland Railway,Ashland Railway,2018,N/A,N/A,550000,1100000,40.793832,-82.532998,Point
+ASRY Trail Bridge,Ashland Railway,Ashland Railway,2017,N/A,N/A,575000,1350000,40.771607,-82.510385,Point
+CUOH Raccoon Run Bridge 2017,Columbus & Ohio River Railroad,Columbus & Ohio River Railroad,2018,N/A,N/A,700000,1800000,40.052486,-82.4115,Point

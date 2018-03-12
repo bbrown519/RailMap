@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Ohio Rail Map</title>
+  <!--Stylesheet-->
+  <link rel="stylesheet" href="leaflet.css" />
+  <link rel="stylesheet" href="myStylesheet.css" />
+  <link rel="stylesheet" href="leaflet-search.css" />
+  <!--Scripts-->
+  <script src="leaflet.js"></script>
+  <script src="Projects.js"></script>
+  <script src="myMain.js"></script>
+  <script src="OhioCounties.js"></script>
+  <script src="ActiveRailLines.js"></script>
+  <!-- Print -->
+  <script src="leaflet.browser.print.min.js"></script>
+  <!-- Search -->
+  <script src="leaflet-search.js"></script>
+</head>
+
+<body>
+  <!-- <p id "welcome">Welcome to the Ohio Rail Development Commission Rail Map! Here you will find current projects, safety hazards and locations
+    of rail lines, terminals, yard along with the ownership data. <br>For questions, please contact ordc@dot.ohio.gov.</p> -->
+  <div id="post-it">
+    <button class="tablinks" onclick="openCity(event, 'Filter')">Filter</button>
+    <button class="tablinks" onclick="openCity(event, 'Print')">Print</button>
+    <button class="tablinks" onclick="openCity(event, 'Search')">Search</button>
+    <button class="tablinks" onclick="openCity(event, 'Zoom')">Zoom</button>
+    <p>Click the buttons above for help. <br><br> To view a spreadsheet of all the data click
+        <a href="data.htm">here</a>.
+    </p>
+  </div>
+  <div id="Filter" class="tabcontent">
+      <button class="tablinks" onclick="openCity(event, 'Filter')">Filter</button>
+      <button class="tablinks" onclick="openCity(event, 'Print')">Print</button>
+      <button class="tablinks" onclick="openCity(event, 'Search')">Search</button>
+      <button class="tablinks" onclick="openCity(event, 'Zoom')">Zoom</button>
+    <h3>Filter:</h3>
+    <p>Control visible layers by using the checkbox in upper right corner.</p>
+    <button onclick="this.parentElement.style.display='none'">Close</span>
+  </div>
+  <div id="Search" class="tabcontent">
+      <button class="tablinks" onclick="openCity(event, 'Filter')">Filter</button>
+      <button class="tablinks" onclick="openCity(event, 'Print')">Print</button>
+      <button class="tablinks" onclick="openCity(event, 'Search')">Search</button>
+      <button class="tablinks" onclick="openCity(event, 'Zoom')">Zoom</button>
+    <h3>Search:</h3>
+    <p>Search up counties to zoom to by using the box in top right corner.
+      <br>
+      <br>Enter county names: Franklin, Cuyahoga,
+    </p>
+    <button onclick="this.parentElement.style.display='none'">Close</span>
+  </div>
+  <div id="Print" class="tabcontent">
+      <button class="tablinks" onclick="openCity(event, 'Filter')">Filter</button>
+      <button class="tablinks" onclick="openCity(event, 'Print')">Print</button>
+      <button class="tablinks" onclick="openCity(event, 'Search')">Search</button>
+      <button class="tablinks" onclick="openCity(event, 'Zoom')">Zoom</button>
+    <h3>Print:</h3>
+    <p>Use the printer button in the upper left corner to screenshot the map for print.
+      <br>
+      <br>Options: Portrait, Landscape, Auto or Custom sizes.</p>
+    <button onclick="this.parentElement.style.display='none'">Close</span>
+  </div>
+  <div id="Zoom" class="tabcontent">
+      <button class="tablinks" onclick="openCity(event, 'Filter')">Filter</button>
+      <button class="tablinks" onclick="openCity(event, 'Print')">Print</button>
+      <button class="tablinks" onclick="openCity(event, 'Search')">Search</button>
+      <button class="tablinks" onclick="openCity(event, 'Zoom')">Zoom</button>
+    <h3>Zoom:</h3>
+    <p>Use the + and - buttons in the upper left corner to zoom in and out, respectively.
+      <br>
+      <br>Click Reset Zoom in the bottom left corner to return to the full zoom of Ohio.</p>
+    <button onclick="this.parentElement.style.display='none'">Close</span>
+  </div>
+  <div id="mapDivId"></div>
+  <!-- <button class="manualButton" onclick="manualPrint()">Manual print</button> -->
+
+  <!-- Button
+    <button type="button" onclick="myFunction()">Try it</button> -->
+  <!-- document.getElementById("jsfile").onclick = zoomTo(); -->
+  <!-- <input id= "jsfile" type="button" onclick="zoomTo(Franklin);" value="Franklin" /> -->
+</body>
+
+</html>

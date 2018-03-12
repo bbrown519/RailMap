@@ -1,0 +1,192 @@
+var Yards = {
+    "type": "FeatureCollection",
+    "features": [
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Queensgate Yard",
+                                "Entity": "CSX",
+                                "City": "Cincinnati",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [39.13261,-84.542074999999997]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Gest. St. Yard",
+                                "Entity": "NS",
+                                "City": "Cincinnati",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [39.111908,-84.541144000000003]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Sharonville Yard",
+                                "Entity": "NS",
+                                "City": "Sharonville",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [39.265132000000001,-84.420096000000001]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Parsons Yard",
+                                "Entity": "CSX",
+                                "City": "Columbus",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [39.904927000000001,-82.975326999999993]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Watkins Yard",
+                                "Entity": "NS",
+                                "City": "Columbus",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [39.909084,-82.948160999999999]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Buckeye Yard",
+                                "Entity": "NS",
+                                "City": "Columbus",
+                                "Status": "Inactive"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [39.994138,-83.128636]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Stanley Yard",
+                                "Entity": "CSX",
+                                "City": "Toledo",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [41.577520999999997,-83.515411]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Walbridge Yard",
+                                "Entity": "CSX",
+                                "City": "Toledo",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [41.564118999999998,-83.491776000000002]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Lang Yard",
+                                "Entity": "CN",
+                                "City": "Toledo",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [41.702103000000001,-83.502998000000005]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Bellevue Yard",
+                                "Entity": "NS",
+                                "City": "Bellevue",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [41.292686000000003,-82.789349000000001]}
+                },
+                {
+                                "type": "Feature",
+                                "properties": {
+                                "Name": "Collinwood Yard",
+                                "Entity": "CSX",
+                                "City": "Cleveland",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "Point",
+                                "coordinates": [41.571691999999999,-81.556022999999996]}
+                },
+                {
+                                "type": "",
+                                "properties": {
+                                "Name": "Rockport Yard",
+                                "Entity": "NS",
+                                "City": "Cleveland",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "",
+                                "coordinates": [41.422427999999996,-81.813102000000001]}
+                },
+                {
+                                "type": "",
+                                "properties": {
+                                "Name": "Brewster Yard",
+                                "Entity": "W&LE",
+                                "City": "Brewster",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "",
+                                "coordinates": [40.713923000000001,-81.599132999999995]}
+                },
+                {
+                                "type": "",
+                                "properties": {
+                                "Name": "Willard Yard",
+                                "Entity": "CSX",
+                                "City": "Willard",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "",
+                                "coordinates": [41.065655,-82.753556000000003]}
+                },
+                {
+                                "type": "",
+                                "properties": {
+                                "Name": "Lima Yard",
+                                "Entity": "CSX ",
+                                "City": "Lima",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "",
+                                "coordinates": [40.766044999999998,-84.098000999999996]}
+                },
+                {
+                                "type": "",
+                                "properties": {
+                                "Name": "Ottawa Yard",
+                                "Entity": "AARR",
+                                "City": "Toledo",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "",
+                                "coordinates": [41.697727999999998,-83.512399000000002]}
+                },
+                {
+                                "type": "",
+                                "properties": {
+                                "Name": "Newark Yard",
+                                "Entity": "CUOH",
+                                "City": "Newark",
+                                "Status": "Active"},
+                                "geometry": {
+                                "type": "",
+                                "coordinates": [40.056123999999997,-82.390861999999998]}
+                }}
+    ]
+    }
